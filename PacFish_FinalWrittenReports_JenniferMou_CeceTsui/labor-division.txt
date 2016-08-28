@@ -1,0 +1,5 @@
+Jennifer Mou & Cece Tsui
+CS230: Final Project: Phase 3: Labor Division
+8 May 2015
+
+Based on our technical report, we have five classes. Three of the classes refer to the GUIs and the other two classes refer to the foundation of the game. This entire project was coded together, believe it or not. Cece focused more on the GamePanel class while Jennifer focused more on the other four classes since GamePanel was more challenging. However, Jennifer and Cece always coded side by side and consulted each other when implementing methods. Jennifer and Cece also worked together on creating the User Manual and Technical Report, working side by side to draft and revise it. Entirely, both Jennifer and Cece, as a team, spent about twenty hours for all of the phases of the project. It was a lot of fun, and we hope you enjoy the fruits of our labor! 
